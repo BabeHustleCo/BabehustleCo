@@ -1,10 +1,9 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>BabeHustle Co. | Get That Bag</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
@@ -77,6 +76,10 @@
       background-color: #ffb6c1;
       color: white;
     }
+    footer a {
+      color: white;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -92,7 +95,7 @@
   <section class="hero" id="bundle">
     <h2>Get That Bag Business Bundle 💼</h2>
     <p>Ready to stop winging it and start running your hustle like a CEO? This digital bundle is everything you need to plan, post, and profit like the baddie you are.</p>
-   <a href="https://your-product-link.com" class="cta-button" target="_blank">Shop the Bundle Now</a>
+    <a href="https://melanielae.gumroad.com/l/urjvq" class="cta-button" target="_blank">Shop the Bundle Now</a>
   </section>
 
   <section class="features" id="features">
@@ -120,6 +123,7 @@
 
   <footer id="contact">
     <p>© 2025 BabeHustle Co. | Built for baddies, by a baddie.</p>
+    <p>Contact: <a href="mailto:babehustleco@gmail.com">babehustleco@gmail.com</a></p>
   </footer>
 </body>
 </html>
