@@ -92,7 +92,7 @@
   <section class="hero" id="bundle">
     <h2>Get That Bag Business Bundle 💼</h2>
     <p>Ready to stop winging it and start running your hustle like a CEO? This digital bundle is everything you need to plan, post, and profit like the baddie you are.</p>
-    <a href="#" class="cta-button">Shop the Bundle Now</a>
+   <a href="https://your-product-link.com" class="cta-button" target="_blank">Shop the Bundle Now</a>
   </section>
 
   <section class="features" id="features">
